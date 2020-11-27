@@ -1,0 +1,2 @@
+CREATE USER rails_user;
+ALTER USER rails_user WITH SUPERUSER;
